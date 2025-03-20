@@ -3,13 +3,17 @@
 	"displayName": "Tailwind Variants Snippets",
 	"description": "Tailwind Variants Snippets",
 	"version": "0.0.1",
-	"publisher": "",
 	"engines": {
 		"vscode": "^1.28.0"
 	},
 	"categories": [
 		"Snippets"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/danieledep/tailwind-variants-snippets"
+	},
+	"publisher": "danieledep",
 	"contributes": {
 		"snippets": [
 			{

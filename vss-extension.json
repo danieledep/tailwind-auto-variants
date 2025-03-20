@@ -1,0 +1,12 @@
+{
+	"manifestVersion": 1,
+	"id": "tailwind-variants-snippets",
+	"version": "0.1.0",
+	"name": "Tailwind Variants Snippets",
+	"publisher": "danieledep",
+	"description": "Variants autocompletion for Tailwind CSS",
+	"repository": {
+			"type": "git",
+			"uri": "https://github.com/danieledep/tailwind-variants-snippets"
+	}
+}
