@@ -1,0 +1,37 @@
+{
+	"name": "tailwind-variants-snippets",
+	"displayName": "Tailwind Variants Snippets",
+	"description": "Tailwind Variants Snippets",
+	"version": "0.0.1",
+	"publisher": "",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./html.json"
+			},
+			{
+				"language": "css",
+				"path": "./css.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./javascriptreact.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./typescriptreact.json"
+			},
+			{
+				"language": "liquid",
+				"path": "./liquid.json"
+			}
+		]
+	}
+}
