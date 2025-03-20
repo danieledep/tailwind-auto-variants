@@ -14,6 +14,10 @@
 		"url": "https://github.com/danieledep/tailwind-variants-snippets"
 	},
 	"publisher": "danieledep",
+	"scripts": {
+		"build": "vsce package",
+		"publish": "vsce publish"
+	},
 	"contributes": {
 		"snippets": [
 			{
