@@ -1,7 +1,7 @@
 {
 	"manifestVersion": 1,
 	"id": "tailwind-auto-variants",
-	"version": "0.1.0",
+	"version": "0.0.2",
 	"name": "Tailwind Auto Variants",
 	"publisher": "danieledep",
 	"description": "Smart snippets for Tailwind CSS variants",

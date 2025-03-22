@@ -2,7 +2,7 @@
 	"name": "tailwind-auto-variants",
 	"displayName": "Tailwind Auto Variants",
 	"description": "Tailwind Auto Variants - Intelligent variant generation for Tailwind CSS",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.28.0"
 	},
@@ -18,6 +18,7 @@
 		"build": "vsce package",
 		"publish": "vsce publish"
 	},
+	"icon": "images/icon.png",
 	"contributes": {
 		"snippets": [
 			{
