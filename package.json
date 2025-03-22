@@ -1,7 +1,7 @@
 {
-	"name": "tailwind-variants-snippets",
-	"displayName": "Tailwind Variants Snippets",
-	"description": "Tailwind Variants Snippets",
+	"name": "tailwind-auto-variants",
+	"displayName": "Tailwind Auto Variants",
+	"description": "Tailwind Auto Variants - Intelligent variant generation for Tailwind CSS",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.28.0"

@@ -1,29 +1,32 @@
-# Tailwind Variants Snippets
+# Tailwind Auto Variants
 
-A collection of very powerful VS Code snippets to write super fast breakpoint variants and other common modifiers. This extension automatically picks up the last typed utility class and allow you to only write the changing value.
+A VS Code extension that provides smart snippets for breakpoint variants and other common modifiers. This extension automatically picks up the last utility class before the cursor so that you only need to write the changing value.
 
-For example after typing `bg-red-500 hover:` it will add the `bg-red-` prefix for you to quickly add a hover variant. It lets you write Tailwind CSS really fast.
+`bg-red-500` -> `md:bg-red-`
+
+`flex-col` -> `md:flex-`
+
+`border-tr-[2px]` -> `md:border-tr-[px]`
+
 
 ![alt text](tvs.jpeg)
-
-It also supports custom values, for example after typing `pt-[24px] md:` it will automatically populate the utility class and the unit inside the square brackets, like this: `pt-[px]` with the cursor position already inside the square brackets.
 
 ## Features
 
 - Support for responsive, state, and modifier variants
-- Support for custom values
+- Support for custom values inside square brackets
 - Support for tailwind v4 custom property. Eg: `bg-(--color-primary)`
 
 ## Installation
 
 1. Open VS Code
 2. Go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X)
-3. Search for "Tailwind Variants Snippets"
+3. Search for "Tailwind Auto Variants"
 4. Click Install
 
 ## Usage
 
-Type the snippet prefix in your code and press Tab or Enter to expand the snippet. The snippets will appear in the suggestion list as you type.
+Type the snippet prefix, such as `md:` or `hover:`, and the snippets will appear in the suggestion list as you type.
 
 ## Recommended VS Code Settings
 

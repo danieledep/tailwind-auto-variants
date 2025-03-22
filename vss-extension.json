@@ -1,12 +1,12 @@
 {
 	"manifestVersion": 1,
-	"id": "tailwind-variants-snippets",
+	"id": "tailwind-auto-variants",
 	"version": "0.1.0",
-	"name": "Tailwind Variants Snippets",
+	"name": "Tailwind Auto Variants",
 	"publisher": "danieledep",
-	"description": "Variants autocompletion for Tailwind CSS",
+	"description": "Intelligent variant generation for Tailwind CSS",
 	"repository": {
 			"type": "git",
-			"uri": "https://github.com/danieledep/tailwind-variants-snippets"
+			"uri": "https://github.com/danieledep/tailwind-auto-variants"
 	}
 }
