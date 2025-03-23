@@ -1,8 +1,8 @@
 {
 	"name": "tailwind-auto-variants",
 	"displayName": "Tailwind Auto Variants",
-	"description": "Tailwind Auto Variants - Intelligent variant generation for Tailwind CSS",
-	"version": "0.0.2",
+	"description": "Auto generate variants for Tailwind CSS",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.28.0"
 	},
@@ -23,23 +23,27 @@
 		"snippets": [
 			{
 				"language": "html",
-				"path": "./html.json"
+				"path": "snippets/html.json"
 			},
 			{
 				"language": "css",
-				"path": "./css.json"
+				"path": "snippets/css.json"
 			},
 			{
 				"language": "javascriptreact",
-				"path": "./javascriptreact.json"
+				"path": "snippets/javascriptreact.json"
 			},
 			{
 				"language": "typescriptreact",
-				"path": "./typescriptreact.json"
+				"path": "snippets/typescriptreact.json"
 			},
 			{
 				"language": "liquid",
-				"path": "./liquid.json"
+				"path": "snippets/liquid.json"
+			},
+			{
+				"language": "twig",
+				"path": "snippets/twig.json"
 			}
 		]
 	}

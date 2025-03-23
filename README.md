@@ -9,7 +9,7 @@ A VS Code extension that provides smart snippets for breakpoint variants and oth
 `border-tr-[2px]` -> `md:border-tr-[px]`
 
 
-![alt text](/images/tvs.jpegtvs.jpeg)
+![Screenshot of the extension snippets suggestions](/images/screenshot.jpeg)
 
 ## Features
 
